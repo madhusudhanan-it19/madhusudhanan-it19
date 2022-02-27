@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **App Projects**
 
-- 🌱 I’m currently learning **Flutter & Spring**
+- 🌱 I’m currently learning **Flutter & Javascript**
 
 - 👯 I’m looking to collaborate on **Web Based Projects**
 
